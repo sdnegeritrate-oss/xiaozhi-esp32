@@ -1,0 +1,27 @@
+{
+  "board_name": "esp32-s3-devkitc-n16r8-096oled",
+  "display": {
+    "type": "ssd1306",
+    "sda": 41,
+    "scl": 42,
+    "width": 128,
+    "height": 64,
+    "address": "0x3C"
+  },
+  "audio": {
+    "mic": {
+      "type": "inmp441",
+      "sd": 9,
+      "ws": 45,
+      "sck": 10
+    },
+    "speaker": {
+      "type": "max98357a",
+      "din": 8,
+      "bclk": 15,
+      "lrc": 16
+    }
+  },
+  "psram": "8MB OPI",
+  "flash": "16MB"
+}
