@@ -1,8 +1,0 @@
-{
-  "type": "esp32-s3-devkitc-n16r8-096oled",
-  "target": "esp32s3",
-  "name": "ESP32-S3 DevKitC N16R8 0.96 OLED",
-  "manufacturer": "Espressif",
-  "board": "esp32-s3-devkitc-n16r8-096oled",
-  "description": "Custom S3-Bot Surabaya - OLED 41/42, Mic 9/45/10, Speaker 8/15/16, Button 4"
-}
