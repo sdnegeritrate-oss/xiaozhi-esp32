@@ -1,5 +1,0 @@
-config BOARD_TYPE_ESP32_S3_DEVKITC_N16R8_096OLED
-    bool "ESP32-S3 DevKitC N16R8 0.96 OLED (S3-Bot)"
-    select BOARD_ESP32_S3_DEVKITC
-    help
-        Custom board S3-Bot Surabaya - N16R8 16MB Flash 8MB PSRAM
