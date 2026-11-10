@@ -1,0 +1,6 @@
+config BOARD_TYPE_ESP32_S3_DEVKITC_N16R8_096OLED
+    bool "S3-Bot N16R8 0.96 OLED v2 - Mata Melirik + Relay"
+    select BOARD_ESP32_S3_DEVKITC
+    help
+        S3-Bot Surabaya v2 - ESP32-S3 N16R8 16MB Flash 8MB PSRAM
+        Mata melirik pakai sin(), Relay GPIO 18 buat lampu
